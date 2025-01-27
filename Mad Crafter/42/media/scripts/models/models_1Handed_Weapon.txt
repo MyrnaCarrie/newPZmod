@@ -1,0 +1,188 @@
+module Base
+{
+	model Electric_Machete
+	{
+		mesh = Weapons/1Handed/Electric_Machete,
+		texture = Weapons/1Handed/Electric_Machete,
+
+		attachment Bip01_Prop2
+		{
+			offset = 0.0048 0.0222 0.0025,
+			rotate = -54.9447 87.0748 56.6250,
+		}
+
+		attachment Bip01_Prop1
+		{
+			offset = -0.0075 0.0224 0.0016,
+			rotate = -175.8186 0.4269 176.8420,
+		}
+
+		attachment world
+		{
+			offset = -0.0155 0.1335 -0.0000,
+			rotate = 0.0000 0.0000 -1.0532,
+		}
+	}
+	model Electric_Mosquito_Swatter
+	{
+		mesh = Weapons/1Handed/Electric_Mosquito_Swatter,
+		texture = Weapons/1Handed/Electric_Mosquito_Swatter,
+
+		attachment Bip01_Prop2
+		{
+			offset = -0.0025 -0.0577 -0.0025,
+			rotate = 3.5150 7.6154 2.4686,
+		}
+
+		attachment Bip01_Prop1
+		{
+			offset = 0.0023 -0.0495 -0.0089,
+			rotate = 3.5337 -27.8785 -1.4152,
+		}
+
+		attachment world
+		{
+			offset = 0.0015 0.2110 -0.0254,
+			rotate = 178.9822 -86.1483 178.9797,
+		}
+	}
+	model Nail_Knife
+	{
+		mesh = Weapons/1Handed/Nail_Knife,
+		texture = Weapons/1Handed/Nail_Knife,
+
+		attachment Bip01_Prop2
+		{
+			offset = -0.0130 0.0001 0.0025,
+			rotate = -23.8537 -86.6222 -22.0887,
+		}
+
+		attachment Bip01_Prop1
+		{
+			offset = 0.0000 0.0000 0.0000,
+			rotate = 0.0000 0.0000 0.0000,
+		}
+
+		attachment world
+		{
+			offset = -0.0109 0.0002 -0.0000,
+			rotate = 0.0000 -0.0000 -1.0532,
+		}
+	}
+	model Pipe_Wrench_Axe
+	{
+		mesh = Weapons/1Handed/Pipe_Wrench_Axe,
+		texture = Weapons/1Handed/Pipe_Wrench_Axe,
+
+		attachment Bip01_Prop2
+		{
+			offset = 0.0011 -0.0235 0.0025,
+			rotate = -172.4136 71.7542 174.3314,
+		}
+
+		attachment Bip01_Prop1
+		{
+			offset = 0.0216 -0.0091 -0.0016,
+			rotate = -175.2841 4.6903 172.0988,
+		}
+
+		attachment world
+		{
+			offset = -0.0176 0.1103 -0.0000,
+			rotate = 0.0000 0.0000 -1.0532,
+		}
+	}
+	model Saw_Blade_Claw
+	{
+		mesh = Weapons/1Handed/Saw_Blade_Claw,
+		texture = Weapons/1Handed/Saw_Blade_Claw,
+
+		attachment Bip01_Prop2
+		{
+			offset = 0.0228 0.0134 0.0025,
+			rotate = -83.9969 1.7279 -88.2652,
+		}
+
+		attachment Bip01_Prop1
+		{
+			offset = -0.0049 0.0211 -0.0107,
+			rotate = -77.0614 -13.6181 12.5516,
+		}
+
+		attachment world
+		{
+			offset = -0.0109 0.0002 -0.0000,
+			rotate = 0.0000 -0.0000 -1.0532,
+		}
+	}
+	model Wrench_Knife
+	{
+		mesh = Weapons/1Handed/Wrench_Knife,
+		texture = Weapons/1Handed/Wrench_Knife,
+
+		attachment Bip01_Prop2
+		{
+			offset = -0.0029 -0.0058 -0.0015,
+			rotate = 146.9655 78.5789 -144.4227,
+		}
+
+		attachment Bip01_Prop1
+		{
+			offset = 0.0121 -0.0057 0.0185,
+			rotate = 177.8253 -4.3122 168.2050,
+		}
+
+		attachment world
+		{
+			offset = 0.0161 -0.0001 -0.0000,
+			rotate = -180.0000 -0.0000 -179.7710,
+		}
+	}
+	model Zulu_Short_Spear
+	{
+		mesh = Weapons/1Handed/Zulu_Short_Spear,
+		texture = Weapons/1Handed/Zulu_Short_Spear,
+
+		attachment Bip01_Prop2
+		{
+			offset = -0.0133 0.0280 0.0095,
+			rotate = -23.8537 -86.6222 -22.0887,
+		}
+
+		attachment Bip01_Prop1
+		{
+			offset = -0.0018 0.0699 0.0018,
+			rotate = 0.0000 0.0000 0.0000,
+		}
+
+		attachment world
+		{
+			offset = -0.0109 0.0002 -0.0000,
+			rotate = 0.0000 -0.0000 -1.0532,
+		}
+	}
+	
+	model Dagger_HandAxe
+	{
+		mesh = Weapons/1Handed/Dagger_HandAxe,
+		texture = Weapons/1Handed/Dagger_HandAxe,
+
+		attachment Bip01_Prop2
+		{
+			offset = -0.0133 0.0280 0.0095,
+			rotate = -23.8537 -86.6222 -22.0887,
+		}
+
+		attachment Bip01_Prop1
+		{
+			offset = -0.0018 0.0699 0.0018,
+			rotate = 0.0000 0.0000 0.0000,
+		}
+
+		attachment world
+		{
+			offset = -0.0109 0.0002 -0.0000,
+			rotate = 0.0000 -0.0000 -1.0532,
+		}
+	}
+}

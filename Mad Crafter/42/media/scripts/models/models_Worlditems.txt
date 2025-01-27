@@ -1,0 +1,15 @@
+module Base
+{
+	model Keychain_Screwdriver
+	{
+		mesh = WorldItems/Keychain_Screwdriver,
+		texture = WorldItems/Keychain_Screwdriver,
+
+		attachment world
+		{
+			offset = -0.0109 0.0002 -0.0000,
+			rotate = 0.0000 -0.0000 -1.0532,
+		}
+	}
+
+}

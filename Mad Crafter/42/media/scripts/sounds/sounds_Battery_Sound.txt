@@ -1,0 +1,10 @@
+module Base {
+    sound InsertBattery {
+        category = Item,
+        clip { file = media/sound/ProgramSound/InsertBattery.wav,  volume = 0.3, }
+    }
+    sound RemoveBattery {
+        category = Item,
+        clip { file = media/sound/ProgramSound/RemoveBattery.wav, volume = 0.4, }
+    }
+}
